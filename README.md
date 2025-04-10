@@ -130,9 +130,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📞 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Your Name - Gautam Kumar - gk39951@gmail.com
 
-Project Link: [https://github.com/yourusername/task-logger](https://github.com/yourusername/task-logger)
+
 
 ---
 

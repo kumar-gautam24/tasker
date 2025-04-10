@@ -11,7 +11,6 @@ A minimalist Flutter application for tracking and logging daily repetitive tasks
 - **Clean, Minimal UI**: Distraction-free design focused on productivity
 - **Quick Task Creation**: Create new tasks with title, description, and schedule in seconds
 
-## 📱 Screenshots
 
 ## 📱 Screenshots
 

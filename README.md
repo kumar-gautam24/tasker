@@ -13,15 +13,17 @@ A minimalist Flutter application for tracking and logging daily repetitive tasks
 
 ## 📱 Screenshots
 
+## 📱 Screenshots
+
 <table>
   <tr>
-    <td><img src="screenshots/daily_tasks.png" alt="Daily Tasks View" width="200"/></td>
-    <td><img src="screenshots/create_task.png" alt="Create Task Form" width="200"/></td>
-    <td><img src="screenshots/empty_state.png" alt="Empty State" width="200"/></td>
+    <td><img src="Screenshot 2025-04-09 195048.png" alt="Daily Tasks View" width="200"/></td>
+    <td><img src="Screenshot 2025-04-09 195058.png" alt="Create Task Form" width="200"/></td>
+    <td><img src="Screenshot 2025-04-09 195104.png" alt="Empty State" width="200"/></td>
   </tr>
   <tr>
-    <td><img src="screenshots/history_view.png" alt="History Calendar View" width="200"/></td>
-    <td><img src="screenshots/all_done.png" alt="All Tasks Completed" width="200"/></td>
+    <td><img src="Screenshot 2025-04-09 195125.png" alt="History Calendar View" width="200"/></td>
+    <td><img src="Screenshot 2025-04-09 195135.png" alt="All Tasks Completed" width="200"/></td>
   </tr>
 </table>
 
